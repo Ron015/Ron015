@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <img src="https://raw.githubusercontent.com/Rongaming7777/Rongaming7777/main/resources/banner.png" alt="Hello world">
-
-<p align="center">Visitor count<b>
+<h2 align="center">Visitor count</h2>
+<p align="center">
   <img src="https://profile-counter.glitch.me/Rongaming7777/count.svg" />
 </p>
 
