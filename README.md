@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <img src="https://raw.githubusercontent.com/Rongaming7777/Rongaming7777/main/resources/banner.png" alt="Hello world">
 
@@ -26,7 +26,6 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 - And of course GitHub you're already on (Recursion).
 
 
-### Hi there 👋
 
 <!--
 **Rongaming7777/Rongaming7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
