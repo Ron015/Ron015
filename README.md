@@ -2,16 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/Rongaming7777/Rongaming7777/main/resources/banner.png" alt="Hello world">
 
-<p align="center"> <h3Visitor count</h3><b>
+<p align="center">Visitor count<b>
   <img src="https://profile-counter.glitch.me/Rongaming7777/count.svg" />
 </p>
 
-## About me
+<h1 align="center">About me</h1>
+<p align="left">I'm Ron A bot developer for discord also A web developer 
 
-I'm Ron A bot developer for discord also A web developer 
-
-I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web related stuff.
-
+I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web related stuff. </p>
+<p align="center"><img alt="coding"width="400" src="https://tenor.com/en-GB/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"></p>
 
 ## Things I am passionate about
 
