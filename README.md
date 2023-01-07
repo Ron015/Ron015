@@ -2,10 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Rongaming7777/Rongaming7777/main/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-<h3 Visitor count 
-</h3> 
-</br>
+<p align="center"> <h3Visitor count</h3><b>
   <img src="https://profile-counter.glitch.me/Rongaming7777/count.svg" />
 </p>
 
