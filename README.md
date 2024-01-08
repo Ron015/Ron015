@@ -16,6 +16,7 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 ## Things I am passionate about
 
 - Bot :robot:
+- Web 🌐
 - Open source :octocat:
 - And Private source 🔏
 
