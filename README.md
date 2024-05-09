@@ -23,7 +23,9 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Bot related things and tech in general on [Discord](https://discord.gg/zG8yUPhuxw).
-- My Discord Id **__RôÑ#6426__**
+- My Discord Id **__._.ron._.__**
+- 
+<a href="https://discord.com/users/820280877048135680/"><img src="https://discord.c99.nl/widget/theme-3/820280877048135680.png"></a>
 - And of course GitHub you're already on (Recursion).
 
 <h3 align="left">Languages and Tools:</h3>
