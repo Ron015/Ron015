@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 -->
 <h1 align="center">About me</h1>
-<p align="left">I'm Ron A bot developer for discord also A web developer 
+<p align="left">I'm Ron A bot developer for discord also A web developer now working on android app development 
 
 I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web related stuff. </p>
 <p align="center"><img alt="coding"width="400" src="https://github.com/Ron015/Ron015/blob/main/resources/ron-code.gif"></p>
@@ -17,6 +17,7 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 
 - Bot :robot:
 - Web 🌐
+- App
 - Open source :octocat:
 - And Private source 🔏
 
