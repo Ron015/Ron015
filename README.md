@@ -28,6 +28,8 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 
 <a href="https://discord.com/users/820280877048135680/">
 <img src="https://discord.c99.nl/widget/theme-3/820280877048135680.png"></a>
+
+<br>
 - And of course GitHub you're already on (Recursion).
 
 <h3 align="left">Languages and Tools:</h3>
