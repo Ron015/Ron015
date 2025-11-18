@@ -40,7 +40,7 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 <br>
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ron015/ron015/blob/output/github-snake-dark.svg)
 </div>
   
    <!--                 
