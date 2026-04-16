@@ -15,9 +15,11 @@ I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web
 
 - Bot :robot:
 - Web 🌐
-- App
-- Open source :octocat:
-- And Private source 🔏
+- Android App
+- Browser Extensions
+- Automations Scripts
+- Much More Etc..
+
 
 ## Get in touch :coffee:
 
