@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h1 align="center">About me</h1>
 
-<p align="left">I'm Ron A bot developer for discord also A web developer now working on android app development 
+<p align="left">I'm Ron, Currently i am studying and completing my highschool.
 
 I ocassionally Make Minecraft Mods And Plugins Also open sourced few bot and web related stuff. </p>
 
